@@ -1,4 +1,4 @@
-# Group 7's Project Proposal
+# GetService
 
 By: Cleo Reyes, Ella Kim, Arushi Agarwal, Devanshi Desai
 
