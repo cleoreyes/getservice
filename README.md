@@ -105,13 +105,13 @@ CREATE TABLE bookmarks (
 # How to run
 
 To run server:
-``
+```
 cd server
 npm run dev
-``
+```
 
 To run client:
-``
+```
 cd client
 npm start
-``
+```
